@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="ConnectionTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="SQL\SQLCQ" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
