@@ -1,0 +1,7 @@
+C:\Users\Keeame\documents\visual studio 2015\Projects\GoogleData\Tests\bin\Debug\Tests.dll
+C:\Users\Keeame\documents\visual studio 2015\Projects\GoogleData\Tests\bin\Debug\Tests.pdb
+C:\Users\Keeame\documents\visual studio 2015\Projects\GoogleData\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Keeame\documents\visual studio 2015\Projects\GoogleData\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Keeame\documents\visual studio 2015\Projects\GoogleData\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Keeame\documents\visual studio 2015\Projects\GoogleData\Tests\obj\Debug\Tests.dll
+C:\Users\Keeame\documents\visual studio 2015\Projects\GoogleData\Tests\obj\Debug\Tests.pdb
